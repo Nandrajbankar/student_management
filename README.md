@@ -61,11 +61,11 @@ This is a Student Management System web project for Vidya Pratishthan's Polytech
 - Add admin dashboard for management
 
 ##screenshots
-1.Screenshot 2025-07-03 170010
-2.Screenshot 2025-07-03 170037
-3.Screenshot 2025-07-03 170048
-4.Screenshot 2025-07-03 170150
-5.Screenshot 2025-07-03 170203
+1.Screenshot 2025-07-03 170010.png
+2.Screenshot 2025-07-03 170037.png
+3.Screenshot 2025-07-03 170048.png
+4.Screenshot 2025-07-03 170150.png
+5.Screenshot 2025-07-03 170203.png
 
 ## License
 
